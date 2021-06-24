@@ -1,0 +1,18 @@
+[[package]]
+name = "sh"
+version = "1.14.2"
+description = "Python subprocess replacement"
+category = "main"
+optional = false
+python-versions = "*"
+
+[metadata]
+lock-version = "1.1"
+python-versions = "^3.9.0"
+content-hash = "4c347dea32e14ce7b1a886bca5791451bac0be516e524d58151ba3a03b75dbc9"
+
+[metadata.files]
+sh = [
+    {file = "sh-1.14.2-py2.py3-none-any.whl", hash = "sha256:4921ac9c1a77ec8084bdfaf152fe14138e2b3557cc740002c1a97076321fce8a"},
+    {file = "sh-1.14.2.tar.gz", hash = "sha256:9d7bd0334d494b2a4609fe521b2107438cdb21c0e469ffeeb191489883d6fe0d"},
+]
